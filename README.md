@@ -1,57 +1,14 @@
-# Project Name
+# Sample Drawing package for Azure Maps Creator
 
-(short, 1-3 sentenced, description of the project)
+The [Azure Maps Conversion API](https://docs.microsoft.com/rest/api/maps/data/conversion) allows you to convert a Drawing package for a single facility into Creator indoor map data. This sample provides a valid Drawing package for use in the [Creator indoor maps tutorial](https://docs.microsoft.com/azure/azure-maps/tutorial-creator-indoor-maps.md).
 
-## Features
+## Installation
 
-This project framework provides the following features:
+1. Download `sample-building-drawing-package.zip` to your local hard drive.
 
-* Feature 1
-* Feature 2
-* ...
-
-## Getting Started
-
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
+2. Follow the steps in the [Azure Maps Creator tutorial](https://docs.microsoft.com/azure/azure-maps/tutorial-private-atlas-indoor-maps.md) to upload `sample-building-drawing-package.zip` into Creator.
 
 ## Resources
 
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+-[Azure Maps Creator tutorial](https://docs.microsoft.com/azure/azure-maps/tutorial-creator-indoor-maps.md)
+-[Creator for indoor maps](https://docs.microsoft.com/azure/azure-maps/creator-for-indoor-maps.md)
