@@ -1,6 +1,6 @@
 # Sample Drawing package for Azure Maps Creator
 
-The [Azure Maps Conversion service](https://docs.microsoft.com/rest/api/maps/data/conversion) lets you convert a Drawing package for a single facility into Creator indoor map data. This sample provides a valid Drawing package for use in the [Azure Maps Creator tutorial](https://docs.microsoft.com/azure/azure-maps/tutorial-creator-indoor-maps).
+The [Azure Maps Conversion service](https://docs.microsoft.com/rest/api/maps/conversion) lets you convert a Drawing package for a single facility into Creator indoor map data. This sample provides a valid Drawing package for use in the [Azure Maps Creator tutorial](https://docs.microsoft.com/azure/azure-maps/tutorial-creator-indoor-maps).
 
 ## Installation
 
