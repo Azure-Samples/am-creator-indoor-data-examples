@@ -10,6 +10,6 @@ The [Azure Maps Conversion service](https://docs.microsoft.com/rest/api/maps/dat
 
 ## Resources
 
-* [Azure Maps Creator concepts](https://docs.microsoft.com/azure/azure-maps/creator-for-indoor-maps)
+* [Azure Maps Creator concepts](https://docs.microsoft.com/azure/azure-maps/creator-indoor-maps)
 
 * [Azure Maps Creator tutorial](https://docs.microsoft.com/azure/azure-maps/tutorial-creator-indoor-maps)
